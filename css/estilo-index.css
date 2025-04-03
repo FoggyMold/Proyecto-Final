@@ -1,0 +1,24 @@
+body{
+	background-color: #fff7e5;
+	text-align: justify;
+	color: #59483e;
+	padding: 0px;
+}
+
+
+h1{
+	color: #59483e;
+	text-align: center;
+	font-size: 39px;
+}
+
+.row-encabezados{
+	background-color: #f5a3af;
+	padding: 35px;
+}
+
+a{
+	padding-right: 50px;
+	padding-left: 50px;
+	color: #59483e;
+}
